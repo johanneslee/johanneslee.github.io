@@ -10,13 +10,15 @@ share: true
 
 ### 개발자라면 내가 직접 만든 블로그 하나쯤은 있어야지!
 
-...라는 생각에 힘겨워하다가 문득 그런 생각이 들었다.
-간단한 블로그 안에 프로젝트만 따로 링크를 걸면 되지 않나?
-깨달음이 번뜩였고 마침 돌아다니던 Github를 보다 Jekyll이 생각났다.
+...라는 생각에 오랜 시간을 힘겨워하다가 문득 깨달았다. "그냥 블로그 간단하게 만들고 프로젝트만 따로 링크를 걸면 되는 걸!" 잠시 이불을 팡팡 차다가 여러 기술 블로그가 GitHub 를 주소로 하고 있었던 것이 생각났다. 처음 블로그를 생성하면서 그렇게 Jekyll 을 알게 됐다.
 
 >Jekyll 은 아주 심플하고 블로그 지향적인 정적 사이트 생성기입니다. Jekyll 은 다양한 포맷의 원본 텍스트 파일을 템플릿 디렉토리로부터 읽어서, (Markdown 등의) 변환기와 Liquid 렌더러를 통해 가공하여, 당신이 즐겨 사용하는 웹 서버에 곧바로 게시할 수 있는, 완성된 정적 웹사이트를 만들어냅니다. 그리고 Jekyll 은 GitHub Pages 의 내부 엔진이기도 합니다. 다시 말해, Jekyll 을 사용하면 자신의 프로젝트 페이지나 블로그, 웹사이트를 무료로 GitHub 에 호스팅 할 수 있다는 뜻입니다.
 
-위의 내용은 문서에 기술된 Jekyll에 대한 정의이다.
-내용 중에 Markdown은 텍스트를 HTML로 변환하는 변환기이며 '#', '=', '>' 등을 사용한 간단한 문법으로 쉽게 포스트를 작성할 수 있다. Liquid는 Ruby로 작성된 오픈소스 템플릿 언어이다. 웹페이지에 동적인 컨텐츠를 로드하는 Shopify의 Backbone으로 기능하고 있다.
+위의 내용은 문서에 기술된 Jekyll에 대한 정의이다.  
+Markdown은 위키에서 활동하면서 익숙해진 마크업 언어인데, Liquid는 처음 접하는 언어였다.
 
-중요한 점은 Jekyll이 GitHub Pages 의 내부 엔진이라는 점이다. "ID.github.io"라는 Repository 만 만들면 간단하게 블로그를 개설할 수 있다. 또한, <a href='http://jekyllthemes.org/'>Jekyll 테마 웹사이트</a> 에서 무료 테마를 지원받을 수 있어서 손쉽게 멋진 디자인을 꾸밀 수 있다.
+>Liquid is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.
+
+공식 사이트에서 설명하는 정의는 위와 같고 기본적인 문법은 ASP, JSP, PHP 를 생각나게 한다. 그리고, 자체적으로 제공하는 여러 Object 가 있는 것 같은데, 이 부분은 좀더 살펴보아야 할 것 같다.
+
+그리고 Jekyll, 이것의 중요한 포인트는 GitHub Pages 의 내부 엔진이라는 점이다. GitHub 는 "username.github.io" 라는 Repository 를 생성하면 그것을 주소로 하는 블로그를 즉시 개설할 수 있도록 지원한다. 또한, 나처럼 아직 Liquid 에 익숙하지 않은 사용자들을 위해 [무료 테마를 다운로드 할 수 있는 웹사이트](http://jekyllthemes.org/) 가 존재하기 때문에 손쉽게 그럴듯한 디자인을 적용할 수 있다.
