@@ -8,6 +8,12 @@ comments: true
 share: true
 ---
 
+Trello 를 이용하기 전에 Scrum 이라는 개발 방법론과 함께 Trello 를 유용하게 사용할 수 있는 팁이라는 글을 발견하여 번역해보았습니다. 구글 번역기를 기반으로 어감이나, 조금 의도에 어긋나는 해석을 수정하는 방향으로 하고 있으며 지속적으로 수정 중입니다. 중간 수정일은 11월 23일입니다.
+
+원글 : __*[Five Tips for Using Trello for Scrum By Kevin Walsh](https://civicactions.com/blog/five-tips-for-using-trello-for-scrum/)*__
+
+
+
 CivicActions 는 설립된 이래로 가상조직이었고, 최근 몇 년간 모든 프로젝트에 Scrum 이라는 Agile method 을 채택했습니다. 그리고, 2012년 3월부터 Virtual, Scrum 프로젝트를 관리하기 위한 go-to 솔루션으로서 Trello 를 채택했습니다.
 
 Trello 의 장점은 우리에게 프로젝트의 큰 그림을 보게 해준다는 것입니다. 이 개념은 Scrum 의 핵심이기도 합니다. 팀 구성원이 Sprint 나 release 의 큰 그림을 이해하지 못하면 팀 구성원은 이와 같은 방식으로 각자의 업무를 다룰 수 없습니다. 다른 팀 구성원이 수행하는 작업과 관련하여 자신의 업무를 이해하지 못하면 Collaborate 도 안 되고 Cross-skill 도 안 되고 팀이 나아지질 않습니다.
