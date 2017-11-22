@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About me
+#excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+modified: 2017-11-22T17:17:38.564948-04:00
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## 나는 어쩌다 웹 개발자가 되었을까
 
-## So Simple Theme is all about:
+내가 생각하는 웹의 매력은 자랑하기 좋다는 것이다.<br>
+예를 들어, 만약에 웹이 아닌 개발자가 자신의 성과를 자랑할 때,
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+>저는 전세계를 대상으로 처리되는 물류를 관리하는 정보 시스템을 개발하고 있습니다.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+...라고 하면 사람들은 절대로 한번에 알아듣지 못 한다. 나는 자아실현을 위해 나의 성과물이 얼마나 대단한지 설명하려고 노력하지만, 그 복잡한 것을 어떻게 설명하며 비전공자들은 어떻게 알아들을 수 있을까. 사람들이 간신히 보여주는 그 반응은, 차라리 애인이 생겼다고 거짓말(...)이라도 해보는 게 어떨까 생각해보게 한다.
 
-[^1]: Example: *domain.com/category-name/post-title*
+그러면 웹은 어떨까?
+
+* 누가 내게 무슨 일을 하는지 물어본다.
+* 나는 최근에 만든 웹사이트에 접속한다.
+* 모던한 디자인과 깔끔한 애니메이션을 선보인다.
+
+...완벽하다. 수많은 개발 분야 중에서도 자랑에 특화된 게 바로 웹이라고 생각한다. 거의 모든 세대에 컴퓨터와 모바일 기기가 보급되어 있고, 주소만 알고 있으면 누구나 웹사이트에 접근할 수 있다. 그만큼 사용자에게 보여지는 부분을 신경써야 하고 보안을 항상 염두에 두어야 하지만, 잘 만든 웹사이트는 정말 모두에게 인정받을 수 있다. 이렇게 매력적인데 어떻게 웹 개발을 하지 않을 수 있을까.

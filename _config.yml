@@ -3,7 +3,7 @@
 title: Juno Lee
 locale: ko_KR
 description: I sincerely believe that it doesn't matter<br>how slowly you go as long as you do not stop
-logo: site-logo.png
+logo: bonobono.png
 search: true
 url: https://johanneslee.github.io
 
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Juno Lee
-  avatar: bio-photo.jpg
+  avatar: juno-lee.jpg
   email: sj202117@gmail.com
   disqus-shortname:
   twitter: pro9ramer
