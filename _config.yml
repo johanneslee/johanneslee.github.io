@@ -8,13 +8,18 @@ search: true
 url: https://johanneslee.github.io
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
+
+syntax-highlighting:
+  enabled:   true
+  css:       syntax.css
+
 sass:
   sass_dir: _sass
   style: compressed
+
 gems:
   - jekyll-sitemap
   - jekyll-gist
