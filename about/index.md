@@ -2,7 +2,7 @@
 layout: page
 title: About me
 #excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2017-11-22T17:17:38.564948-04:00
+modified: 2017-12-22T17:17:38.564948-04:00
 ---
 
 ## 나는 어쩌다 웹 개발자가 되었을까
